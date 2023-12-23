@@ -6,9 +6,9 @@ Udacity data fundamentals Nanodegree -- Activities and resources
 
 In Udacity connect sessions for data fundamentals nanodegree offered By [Makeen](https://makeen-nanodegrees.com/), we have three main resources to share.
 
-1- Tasks
-2- Resources[links and cheat sheets, etc.]
-3- presentations
+1- Tasks  
+2- Resources[links and cheat sheets, etc.]  
+3- Presentations
 
 This repo is mainly for the first two items; tasks and resources
 
