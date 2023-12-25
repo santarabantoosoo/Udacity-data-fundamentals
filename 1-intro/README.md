@@ -1,3 +1,7 @@
+# Exercises   
+
+> [Choose your journey](https://docs.google.com/document/d/1o51sm2Y0D7fXXJfwfrQ9A9UL4vNRWY8W5yYsmNKXP98/edit#heading=h.qviw8ibzt62t) 
+
 # Resources
 
 ## Top resources this week   
