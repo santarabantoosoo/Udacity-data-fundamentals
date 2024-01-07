@@ -1,15 +1,28 @@
+## Exercises 
+
+> Referencing [exercise](https://docs.google.com/spreadsheets/d/1KkHHc21rNa8gm4-kn-T9qAkK9JFivbT0GOMU8WKbNso/edit?usp=sharing) and [solution](https://docs.google.com/spreadsheets/d/1-UWcvaQwu1GjH_T91sZhAS7rq0fpQpF-KUO6N2zn-Jw/edit?usp=sharing)
+
+> [Sorting and filtering exercise](https://docs.google.com/document/d/11wAVFtQWNSHZ2cUbslxa7YsyQXsXV3y85jNQibetyzY/edit?usp=sharing) 
+
+
 ## Resources   
 
-[Google sheets vs Excel](https://www.simplilearn.com/tutorials/excel-tutorial/google-sheets-vs-excel)    
+> [Statistical Thinking - Cassie Kozyrgov - YouTube](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF)
 
-[Google Sheets: How to Change Number of Bins in Histogram - Statology](https://www.statology.org/google-sheets-histogram-bins/)  
+> [Were 21% of New York City residents really infected with the novel coronavirus? | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/were-21-of-new-york-city-residents-really-infected-with-covid-19-aab6ebefda0)
 
-[How to Change Bin Range in Excel Histogram (with Quick Steps)](https://www.exceldemy.com/how-to-change-bin-range-in-excel-histogram/#:~:text=First%2C%20click%20on%20the%20Plus%20icon%20of%20the,change%20the%20number%20format%20according%20to%20your%20choice)  
+> [Database vs Spreadsheet - Advantages and Disadvantages - YouTube](https://www.youtube.com/watch?v=x4Xt0M1mHbc)
 
-[How to Make a Box Plot in Google Sheets - Statology](https://www.statology.org/box-plot-google-sheets/)
+> [How to Sort in Google Sheets](https://blog.hubspot.com/marketing/how-to-sort-in-google-sheets#:~:text=Sorting%20by%20sheet%20means%20organizing,of%20cells%20in%20your%20spreadsheet.)
 
-### General resources for sheets -- I need to explore 
+> [How to Sort Data in Google Sheets Explained | Coupler.io Blog](https://blog.coupler.io/how-to-sort-data-in-google-sheets/    )
 
-[Blog - Coefficient](https://coefficient.io/blog)
+> [How To Apply Conditional Formatting Across An Entire Row](https://www.benlcollins.com/spreadsheets/conditional-formatting-entire-row/)
 
-[How to Make a Box Plot in Google Sheets - Statology](https://www.statology.org/box-plot-google-sheets/)
+> [How to use Google Sheets: The Complete Beginner's Guide](https://www.benlcollins.com/spreadsheets/how-to-use-google-sheets/#relAbs)
+
+> [6 Effective Ways to Use Explore in Google Sheets](https://www.howtogeek.com/817964/effective-ways-to-use-explore-in-google-sheets/)
+
+> [Formatting tables in google sheets](https://www.benlcollins.com/spreadsheets/how-to-make-a-table-in-google-sheets/)
+
+> [Google Sheets Macros: Add automation to your Sheets without any code](https://www.benlcollins.com/spreadsheets/google-sheets-macros/)
