@@ -1,16 +1,9 @@
 ## Resources  
 
+> [Ultimate Excel PivotTables Tutorial: Beginner to Advanced - 3.5 Hours! - YouTube](https://www.youtube.com/watch?v=02-5BsJxqzU&list=PLzj7TwUeMQ3gu_cJg5cV8RDdBNUVOvG5u&index=2)
 
-[Google sheets vs Excel](https://www.simplilearn.com/tutorials/excel-tutorial/google-sheets-vs-excel)    
+> [Microsoft Excel Intermediate Training (2021/365): 5-Hour Excel Tutorial Class - YouTube](https://www.youtube.com/watch?v=oN82Umc9MCQ&t=317s)  
 
-[Google Sheets: How to Change Number of Bins in Histogram - Statology](https://www.statology.org/google-sheets-histogram-bins/)  
+> [Microsoft Excel Ultimate Chart Tutorial: 10 of the Most Useful Chart Types Explained - YouTube](https://www.youtube.com/watch?v=yJ3wjAfFX_I&t=7s)
 
-[How to Change Bin Range in Excel Histogram (with Quick Steps)](https://www.exceldemy.com/how-to-change-bin-range-in-excel-histogram/#:~:text=First%2C%20click%20on%20the%20Plus%20icon%20of%20the,change%20the%20number%20format%20according%20to%20your%20choice)  
-
-[How to Make a Box Plot in Google Sheets - Statology](https://www.statology.org/box-plot-google-sheets/)
-
-### General resources for sheets -- I need to explore 
-
-[Blog - Coefficient](https://coefficient.io/blog)
-
-[How to Make a Box Plot in Google Sheets - Statology](https://www.statology.org/box-plot-google-sheets/)
+> [Courses - DataCamp - data-visualization-in-excel](https://app.datacamp.com/learn/courses/data-visualization-in-excel)
