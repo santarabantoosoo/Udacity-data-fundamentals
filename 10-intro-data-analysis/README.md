@@ -8,7 +8,10 @@
 
 ## Demo   
 
-[Pandas_philosophy - Colaboratory](https://colab.research.google.com/drive/1fEupEZGxVJckODHBvehNlZ4KpPWJrtj-#scrollTo=1oG_BJV98HkY)
+1. [walkthru Pandas_philosophy](https://colab.research.google.com/drive/1ybseq5gZwNWGiiY0Np4DRQ5jSpmxP3Z8?usp=sharing)
+
+2. [Pandas_philosophy - Colaboratory](https://colab.research.google.com/drive/1fEupEZGxVJckODHBvehNlZ4KpPWJrtj-#scrollTo=1oG_BJV98HkY)
+
 
 ## Resources   
 
