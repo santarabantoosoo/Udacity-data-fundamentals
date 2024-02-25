@@ -20,4 +20,8 @@
 
 ## Exercises   
 
-> [Kaggle exercise](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset)
+1. [Kaggle exercise](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset)
+
+2. [Pandas | Codewars](https://www.codewars.com/collections/pandas)
+
+
